@@ -14,10 +14,7 @@ For this app, i used the Meta Weather API and i changed the background pictures 
   `cd rn-weatherApp`
 - install all dependencies using
 
-  `npm install`
-
-  or
-  `yarn install`
+  `npm install`  or  `yarn install`
 
 ### To run the app
 
