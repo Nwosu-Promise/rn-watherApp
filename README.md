@@ -6,13 +6,13 @@ For this app, i used the Meta Weather API and i changed the background pictures 
 
 ## How to use
 
-- clone or download this repository using
+- Clone or download this repository using
   `git clone https://github.com/Nwosu-Promise/rn-watherApp.git`
   or
   `git clone git@github.com:Nwosu-Promise/rn-watherApp.git`
-- cd into the cloned directry using
+- Cd into the cloned directry using
   `cd rn-weatherApp`
-- install all dependencies using
+- Install all dependencies using
 
   `npm install`  or  `yarn install`
 
