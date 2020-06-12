@@ -14,7 +14,7 @@ For this app, i used the Meta Weather API and i changed the background pictures 
   `cd rn-weatherApp`
 - install all dependencies using
 
-      ``` npm install ```
+  `npm install`
 
   or
   `yarn install`
@@ -27,4 +27,4 @@ For this app, i used the Meta Weather API and i changed the background pictures 
 
 2. Run the app
 
-`npx react-native run-android`
+   `npx react-native run-android`
